@@ -1,0 +1,15 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Node (only matters if i add npm later)
+node_modules/
+
+# Build output (only if i add bundlers later)
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
